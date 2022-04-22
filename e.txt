@@ -1,2 +1,4 @@
 1
 2--- added 
+3
+Final fixed conflict
